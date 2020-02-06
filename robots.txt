@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kiquohpaey.techietrash.com/sitemap.xml
